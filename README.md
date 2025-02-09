@@ -30,7 +30,7 @@ Cada desafio contém:
 | Linguagem  | Desafios Resolvidos |
 |------------|--------------------|
 | [Java](https://github.com/EdnaldoLuiz/leetcode/tree/main/Java)       | 0 |
-| [SQL](https://github.com/EdnaldoLuiz/leetcode/tree/main/SQL/MySQL)        | 3 |
+| [SQL](https://github.com/EdnaldoLuiz/leetcode/tree/main/SQL/MySQL)        | 4 |
 
 
 ---

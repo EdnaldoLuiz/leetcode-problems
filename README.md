@@ -25,11 +25,11 @@ Cada desafio contém:
 
 ## 🏆 Desafios Resolvidos
 
-🔢 Número de desafios resolvidos: **5** (em constante crescimento!)
+🔢 Número de desafios resolvidos: **6** (em constante crescimento!)
 
 | Linguagem  | Desafios Resolvidos |
 |------------|--------------------|
-| [Java](https://github.com/EdnaldoLuiz/leetcode/tree/main/Java)       | 0 |
+| [Java](https://github.com/EdnaldoLuiz/leetcode/tree/main/Java)       | 1 |
 | [SQL](https://github.com/EdnaldoLuiz/leetcode/tree/main/SQL/MySQL)        | 5 |
 
 
